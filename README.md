@@ -10,3 +10,6 @@ My design for a 3D printed chess set. Solid form design for the white and hollow
 
 
 ![alt text](img/sollid_white.JPG "Solid triangular design white chess set")
+
+![alt text](chess_set.stl "3D model stl")
+
