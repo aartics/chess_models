@@ -1,6 +1,7 @@
 # chess_models
-Harti Chess Set
+Design for a 3D printed chess set.
+###### (Uploaded in skp and obj formats. Also including the Dremel 3d20 printer format - .g3drem)
 
-3D model made in sketchup; uploaded in skp and obj formats. 
 
-Also including the Dremel 3d20 #D printer format - g3drem format.
+
+
